@@ -19,3 +19,4 @@ build/*
 
 # Code Coverage artifacts
 jacoco.exec
+/bin/
